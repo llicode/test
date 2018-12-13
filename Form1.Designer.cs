@@ -38,7 +38,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(406, 139);
             this.button1.TabIndex = 0;
-            this.button1.Text = "这里是测试线上line";
+            this.button1.Text = "这里是测试线上line哦";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
